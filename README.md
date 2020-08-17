@@ -1,3 +1,3 @@
-### Hi 👋  It's Tony Xu here
-
-I'm a software engineer at LinkedIn. I love new technologies and build cool projects. I also have a [blog](https://tonyxu.io) and updates from time to time.
+<a href="https://tonyxu.io">
+  <img width="100%" src="./image.png?raw=true" alt="Hi! I'm Tony Xu. Welcome to my GitHub and Blog." title="Hi! I'm Tony Xu. Welcome to my GitHub and Blog.">
+</a>
